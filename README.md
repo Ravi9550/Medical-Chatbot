@@ -35,7 +35,8 @@ This is an AI-powered **Medical Chatbot** that efficiently retrieves and answers
    streamlit run app.py
    ```
 
-🖥️ How It Works
+**🖥️ How It Works** :
+
 1️⃣ User enters a medical query in the chatbot UI.
 
 2️⃣ FAISS retrieves the most relevant medical documents.
@@ -45,12 +46,13 @@ This is an AI-powered **Medical Chatbot** that efficiently retrieves and answers
 4️⃣ The chatbot displays the response in the Streamlit UI.
 
 
-💡 Future Enhancements
-🌍 Multilingual Support - Support non-English medical queries.
+**💡Future Enhancements**
 
-🎤 Voice-Based Queries - Enable voice-based medical queries.
+**🌍 Multilingual Support** - Support non-English medical queries.
 
-📡 Integration with WHO & CDC APIs - Connect with WHO & CDC databases
+**🎤 Voice-Based Queries** - Enable voice-based medical queries.
 
-🤝 Contributing
+**📡 Integration with WHO & CDC APIs** - Connect with WHO & CDC databases
+
+**🤝 Contributing**
 Feel free to submit issues or pull requests!
