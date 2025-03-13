@@ -1,0 +1,26 @@
+# Ignore Python virtual environment
+env/
+.env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+# Ignore large models and datasets
+model/
+*.bin
+*.pt
+*.h5
+*.ckpt
+*.tar.gz
+
+# Ignore dataset files
+dataset/
+*.csv
+*.json
+*.xlsx

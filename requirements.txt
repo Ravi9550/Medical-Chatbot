@@ -1,0 +1,11 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+langchain==0.0.225
+pypdf
+python-dotenv
+transformers==4.31.0
+torch==2.0.1
+tokenizers==0.13.3
+huggingface-hub==0.17.1
+streamlit
+
