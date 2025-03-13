@@ -37,14 +37,19 @@ This is an AI-powered **Medical Chatbot** that efficiently retrieves and answers
 
 🖥️ How It Works
 1️⃣ User enters a medical query in the chatbot UI.
+
 2️⃣ FAISS retrieves the most relevant medical documents.
+
 3️⃣ Llama-2 generates a response using retrieved data.
+
 4️⃣ The chatbot displays the response in the Streamlit UI.
 
 
 💡 Future Enhancements
 🌍 Multilingual Support - Support non-English medical queries.
+
 🎤 Voice-Based Queries - Enable voice-based medical queries.
+
 📡 Integration with WHO & CDC APIs - Connect with WHO & CDC databases
 
 🤝 Contributing
