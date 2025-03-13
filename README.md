@@ -35,7 +35,7 @@ This is an AI-powered **Medical Chatbot** that efficiently retrieves and answers
    streamlit run app.py
    ```
 
-**🖥️ How It Works** :
+## 🖥️ How It Works** :
 
 1️⃣ User enters a medical query in the chatbot UI.
 
