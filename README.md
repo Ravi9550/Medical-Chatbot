@@ -46,7 +46,10 @@ This is an AI-powered **Medical Chatbot** that efficiently retrieves and answers
 4️⃣ The chatbot displays the response in the Streamlit UI.
 
 
-**💡Future Enhancements**
+
+
+
+## 💡Future Enhancements
 
 **🌍 Multilingual Support** - Support non-English medical queries.
 
@@ -54,5 +57,5 @@ This is an AI-powered **Medical Chatbot** that efficiently retrieves and answers
 
 **📡 Integration with WHO & CDC APIs** - Connect with WHO & CDC databases
 
-**🤝 Contributing**
+## 🤝 Contributing**
 Feel free to submit issues or pull requests!
